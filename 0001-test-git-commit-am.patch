@@ -1,0 +1,21 @@
+From 314d1c2e7e81dca4d2b19a6052ab1ff00fa38cb3 Mon Sep 17 00:00:00 2001
+From: Udomsak Odd <odd.daboss@sdee.co>
+Date: Mon, 25 Dec 2017 08:12:35 +0700
+Subject: [PATCH] test git commit -am
+
+---
+ rebase.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/rebase.txt b/rebase.txt
+index f3212eb..8815a97 100644
+--- a/rebase.txt
++++ b/rebase.txt
+@@ -1 +1,4 @@
+ rebase.txt
++insert new line and try the command
++'git diff --check'
++with some extra space at end of lines!
+-- 
+2.15.1
+

@@ -1,0 +1,1 @@
+this is test file on 'git commit -am "commit message" as usual'
