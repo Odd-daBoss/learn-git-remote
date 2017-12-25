@@ -1,1 +1,4 @@
 rebase.txt
+insert new line and try the command
+'git diff --check'
+with some extra space at end of lines!
